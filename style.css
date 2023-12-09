@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    height: 600px;
+    width: 1800px;
+}
+video{
+    height: 600px;
+    width: 600px;
+}
+table{
+    border: 3px black solid;
+}
+th{
+    border: 2px dashed black;
+}
+td{
+    border: 3px dotted black
+}
+p{
+    font-family: monospace;
+    font-size: xx-large;
+}
